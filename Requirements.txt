@@ -1,0 +1,8 @@
+requests
+pandas
+rank_bm25
+sentence-transformers
+google-generativeai
+groq>=0.9.0
+cohere>=5.0.0
+mistralai>=1.0.0
