@@ -1,0 +1,580 @@
+[
+  {
+    "PMID": "41989728",
+    "Title": "Esophageal heating characteristics of very high-power short duration radiofrequency ablation in a myocardial phantom model.",
+    "Abstract": "",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67C9A0> <Element 'ForeName' at 0x000002AECA67C950>",
+    "Journal": "Journal of interventional cardiac electrophysiology : an international journal of arrhythmias and pacing",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "atrial fibrillation"
+    ]
+  },
+  {
+    "PMID": "41989560",
+    "Title": "Hospitalization profiles and complications across ICD and CRT-D implantations in Germany: data from the VIDEO study.",
+    "Abstract": "BACKGROUND: Implantable cardioverter-defibrillator (ICD) is a cornerstone therapy for the prevention of sudden cardiac death. However, clinical profiles and in-hospital outcomes may differ according to device type-single-chamber ICD, dual-chamber ICD, or cardiac resynchronization therapy defibrillator (CRT-D). This study aimed to compare hospitalization parameters and peri-procedural complications among patients receiving these device types.METHODS: We retrospectively analyzed 2,001 consecutive ICD recipients (single-chamber: 815; dual-chamber: 463; CRT-D: 723). Baseline characteristics, intensive care unit (ICU) utilization, procedure-related complications, and discharge outcomes were compared across groups. The main endpoint was defined as major adverse cardiovascular and cerebrovascular events (MACCE), and the second endpoint was defined as an extended MACCE including both MACCE and intensive care unit (ICU) admission.RESULTS: CRT-D recipients were older (67.5 ± 10.4 years, p < 0.01) and had a higher prevalence of comorbidities, including obesity (12.3%, p = 0.03), diabetes mellitus (30.2%, p = 0.04), permanent atrial fibrillation (10.1%, p < 0.01), and chronic kidney disease (31%, p < 0.01), compared with single- and dual-chamber ICD patients. Post-procedural ICU admission was highest in the dual-chamber ICD group (44.5%, p < 0.01), while ICU stay was shortest among CRT-D recipients (median 2.9 days, p < 0.01), who also required mechanical ventilation less frequently (8.7%, p < 0.01). Overall complication rates were lowest in the single-chamber ICD group (7.5%). Compared with single-chamber ICDs, implantation of dual-chamber ICDs was associated with a significantly higher risk of extended MACCE [OR:1.65, (95% CI:1.30-2.09)], whereas CRT-Ds were associated with a significantly lower risk [OR:0.75, (95% CI:0.60-0.94)]. Furthermore, CRT-Ds were associated with a substantially lower extended MACCE risk compared with dual-chamber ICDs [OR: 0.45, (95% CI:0.35-0x\".58)]. Defibrillator type and age emerged as significant predictors of MACCE. For the extended MACCE endpoint, defibrillator type remained a significant predictor, whereas age was not.CONCLUSION: Despite their older age and higher comorbidity burden, recipients of CRT-D exhibited the lowest incidence of MACCE. Defibrillator type and age were identified as relevant predictors of MACCE in this patient population.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA685300> <Element 'ForeName' at 0x000002AECA685350>",
+    "Journal": "Clinical research in cardiology : official journal of the German Cardiac Society",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "atrial fibrillation",
+      "chronic kidney disease"
+    ]
+  },
+  {
+    "PMID": "41989098",
+    "Title": "Prognosis of Tricuspid Regurgitation after Mitral Transcatheter Edge-to-Edge Repair: The EXPANDed Studies.",
+    "Abstract": "BACKGROUND: Transcatheter therapies offer new treatment options for patients with both mitral regurgitation (MR) and tricuspid regurgitation (TR). However, the optimal treatment pathway in patients with combined MR and TR is not completely understood.AIMS: This analysis evaluated the natural TR progression after mitral transcatheter edge-to-edge repair (MTEER) with the MitraClip System in patients with MR and TR from the EXPANDed studies.METHODS: EXPANDed is a pooled cohort from the EXPAND and EXPAND G4 studies. This study includes patients who had severe TR, achieved procedural success with MTEER, and received no direct TR intervention. Echocardiographic assessments were performed independently by echo core lab. Baseline characteristics, 1-year outcomes, and associations with TR improvement were reported based on 30-day TR severity following MTEER.RESULTS: Of those with evaluable TR data at 30 days (N=160), 73% (N=116) improved to ≤moderate TR, while 28% (N=44) had ≥severe TR. The ≤moderate TR group had a lower prevalence of atrial fibrillation (68% vs 89%, p=0.009), numerically lower LV ejection fraction (49% vs 56%, p=0.07), and larger LV dimensions (LVEDV: 137.5±73.4 vs 107.9±44.8 ml, p=0.01). TR reduction was sustained in 86% of ≤moderate TR patients, while 45% of ≥severe TR patients improved to ≤moderate at 1 year. In the ≤moderate TR group, significant and larger improvements in NYHA functional class (p<0.0001) and KCCQ-OS score (Δ = +30.6±25.7, p<0.0001) were observed through 1 year. One-year mortality was numerically lower in the ≤moderate TR group (12.4% vs 22.3%) though not statistically significant (HR=1.92 [0.77, 4.79], p=0.16). Lower LVEF and larger baseline LV size were associated with TR improvement post-MTEER.CONCLUSIONS: Early TR improvement to ≤moderate was observed in almost 3/4 of the population and was associated with significant symptomatic relief. Patients with both severe MR and TR, particularly those with LV dilation, may experience TR improvement following MTEER.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA68E750> <Element 'ForeName' at 0x000002AECA68E7F0>",
+    "Journal": "ESC heart failure",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "atrial fibrillation"
+    ]
+  },
+  {
+    "PMID": "41988973",
+    "Title": "Predictors and Outcomes of Nonvariceal Upper Gastrointestinal Bleed After Coronary Artery Bypass Grafting: A Nationwide Analysis.",
+    "Abstract": "BACKGROUND: Upper gastrointestinal bleeding is a severe postoperative complication after coronary artery bypass grafting. We aimed to identify the incidence, predictors, and outcomes of nonvariceal upper gastrointestinal bleeding (NVUGIB) readmissions within 30 days after coronary artery bypass grafting from a nationwide database.METHODS: The Nationwide Readmission Database 2016 to 2020 was queried to identify patients who had isolated coronary artery bypass grafting and were readmitted with NVUGIB in 30 days. International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) and Procedure Coding System codes were used to identify the cohort. As the Nationwide Readmission Database is an anonymous public database, the study was exempt from the institutional review board. The analysis was conducted using Stata 17 (StataCorp LLC, College Station, TX).RESULTS: Of 801 221 patients who underwent isolated coronary artery bypass grafting, 784 280 were discharged alive. Within 30 days, of the 5180 patients who were readmitted with a diagnosis of NVUGIB, the mortality rate was 5.4%. Compared with nonreadmitted patients, patients with NVUGIB had a lower proportion of women (25.4% versus 31.2%, P<0.001) but higher comorbidity burdens, such as atrial fibrillation (44.4% versus 39.1%, P<0.001), and blood transfusion (39.1% versus 6.0%, P<0.001). Key predictors for 30-day readmission with NVUGIB were atrial fibrillation (hazard ratio [HR], 1.31 [95% CI, 1.20-1.44]; P<0.001) and higher age (>65 years) (HR, 1.25 [95% CI, 1.01-1.53]; P=0.04). Female sex (odds ratio, 2.01 [95% CI, 1.28-3.17]; P=0.002) was strongly associated with death. Early (≤24 hours) esophagogastroduodenoscopy had better mortality outcomes (odds ratio, 0.23 [95% CI, 0.09-0.53]; P<0.001).CONCLUSIONS: NVUGIB readmissions after coronary artery bypass grafting are linked to significant morbidity and death. Early esophagogastroduodenoscopy is associated with improved outcomes, emphasizing its role in management.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA69E7F0> <Element 'ForeName' at 0x000002AECA69E840>",
+    "Journal": "Journal of the American Heart Association",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "atrial fibrillation"
+    ]
+  },
+  {
+    "PMID": "41988965",
+    "Title": "Obstructive Sleep Apnea Treatment Modifies the Effectiveness of Catheter Ablation for Atrial Fibrillation: Post Hoc Analysis of the CABANA Trial.",
+    "Abstract": "",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6A5530> <Element 'ForeName' at 0x000002AECA6A5580>",
+    "Journal": "Journal of the American Heart Association",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "atrial fibrillation"
+    ]
+  },
+  {
+    "PMID": "41989090",
+    "Title": "Decoding the Diabetic Transition: A Lipidomic Approach for Biomarker Discovery in an Indian Cohort.",
+    "Abstract": "Type 2 Diabetes Mellitus (T2DM) is a significant public health burden in India, where the disease presents with unique clinical characteristics, yet data from this high-risk population remain scarce. This study aimed to conduct a lipidomic analysis to identify candidate lipid species associated with different glycemic stages using a refined untargeted lipidomics approach. A cross-sectional study of 95 individuals from Mumbai was stratified into healthy, prediabetic, newly diagnosed diabetic, and advanced diabetic groups based on glycated hemoglobin (HbA1c) levels. An untargeted ultra-high-performance liquid chromatography-tandem mass spectrometry (UHPLC-MS/MS) approach was applied to pooled serum samples to construct a comprehensive lipid library and enable comparative profiling. A stringent filtering pipeline was implemented to ensure robust lipid identification. Our analysis identified a core lipidome of 69 species shared across all cohorts, alongside an increase in lipidomic diversity in diabetic states, with the advanced diabetic group exhibiting the highest number of unique species. Ceramides (Cer) were detected across the glycemic spectrum and exhibited a distinct remodelling pattern. Partial least squares discriminant analysis (PLS-DA) identified 20 candidate lipid species with variable importance in projection (VIP) scores > 1.0, prominently including Cer, phosphatidylinositol (PI), and hexosylceramides (HexCer). Additional lipid classes of interest included sphingomyelins (SM), triacylglycerols (TG), acylcarnitines (ACar), and fatty acids (FA). These hypothesis-generating findings provide a prioritized framework for future large-scale quantitative validation studies aimed at early prediction and risk stratification of T2DM in the Indian population.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67FE70> <Element 'ForeName' at 0x000002AECA67FD80>",
+    "Journal": "Molecular omics",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "type 2 diabetes mellitus"
+    ]
+  },
+  {
+    "PMID": "41989028",
+    "Title": "Obesity and Diabetes: A Complex Connection.",
+    "Abstract": "Obesity and type 2 diabetes mellitus are closely interconnected global epidemics driven by shared metabolic, environmental, and socioeconomic factors. Excess adiposity promotes insulin resistance through adipose tissue dysfunction, chronic inflammation, and ectopic fat deposition, ultimately contributing to β-cell failure and hyperglycemia. Pregnancy represents a unique metabolic state in which physiological insulin resistance may unmask underlying metabolic vulnerability, increasing risks of gestational diabetes, hypertensive disorders, and adverse maternal and neonatal outcomes. Maternal obesity and diabetes also contribute to long-term cardiometabolic risk and the intergenerational transmission of metabolic disease. Integrated strategies emphasizing preconception care, lifestyle interventions, optimized glycemic management, and coordinated postpartum cardiometabolic follow-up are critical to improving maternal and offspring health outcomes.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67DA80> <Element 'ForeName' at 0x000002AECA67DC10>",
+    "Journal": "Clinical obstetrics and gynecology",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "type 2 diabetes mellitus",
+      "gestational diabetes"
+    ]
+  },
+  {
+    "PMID": "41988866",
+    "Title": "Dulaglutide and neurodegeneration biomarkers: REWIND post hoc analysis.",
+    "Abstract": "INTRODUCTION: This post hoc analysis of the Researching Cardiovascular Events with a Weekly Incretin in Diabetes (REWIND) trial examined associations between dulaglutide, Alzheimer's disease and related dementia (ADRD) biomarkers, and substantive cognitive impairment (SCI).METHODS: Participants (dulaglutide, n = 3741; placebo, n = 3627) completed cognitive tests and provided blood samples at baseline and 2 years, with additional cognitive tests at 5-year and final visits. Analysis of covariance and Cox models tested associations between dulaglutide, SCI, and plasma neurofilament light chain (NfL), phosphorylated tau217 (p-tau217), and glial fibrillary acidic protein (GFAP) biomarkers.RESULTS: Dulaglutide-associated changes in biomarkers or SCI were nonsignificant overall. Participants with NfL ≥56 pg/mL had a dulaglutide-associated 2-year reduction in NfL (-27.4% vs -14.2%; p = 0.003). Participants with p-tau217 ≥25 pg/mL had a dulaglutide-associated SCI reduction (hazard ratio = 0.78; p = 0.0064).DISCUSSION: Dulaglutide reduced NfL and SCI in participants with select elevated plasma ADRD biomarkers, with limited 2-year effects on p-tau217 and GFAP. Future studies with longer follow-up should explore incretin-related cognitive changes.CLINICAL TRIAL REGISTRATION INFORMATION: NCT01394952, registered July 15, 2011.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA68CCC0> <Element 'ForeName' at 0x000002AECA68CB80>",
+    "Journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "type 2 diabetes mellitus"
+    ]
+  },
+  {
+    "PMID": "41988816",
+    "Title": "Anacardic Acid Inhibits Pde2a to Enhance Colonic Epithelial Barrier Integrity in the Improvement of Diabetic Cardiomyopathy.",
+    "Abstract": "Diabetic cardiomyopathy (DCM) results in high mortality with surprisingly rare therapeutic approaches. Anacardic acid (AA) shows broad pharmacological properties, but its effect on DCM was unknown. This study aims to investigate the effect and molecular action of AA on DCM. KKAy mice, a model of spontaneous type 2 diabetes, were fed a high-fat diet, and were subsequently administered with AA by gavage at 5 mg/kg for 14 weeks. AA attenuated cardiac dysfunction, pathological injuries, inflammation, fibrosis, oxidative stress, and apoptosis. Mechanistically, AA was enriched in the colon, but not serum and heart, improving colonic histopathological scores, enhancing colonic tight junction protein expression and reducing serum lipopolysaccharide level, suggesting colonic epithelial barrier integrity (CEBI) as a key target of AA. In vitro experiment employed high glucose and palmitic acid-challenged colonic epithelial cells as a cell model of CEBI, showing that AA at 5 µmol/L reversed the impaired expression of tight junction proteins. RNA-sequencing identified Pde2a gene to be significantly inhibited by AA. Lentivirus-induced Pde2a overexpression in colonic epithelial cells abolished the protective effect of AA on CEBI. The present study reports that AA enhances CEBI to attenuate DCM, possibly through inhibiting colonic epithelial expression of Pde2a.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6869D0> <Element 'ForeName' at 0x000002AECA686BB0>",
+    "Journal": "Molecular nutrition & food research",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "type 2 diabetes mellitus"
+    ]
+  },
+  {
+    "PMID": "41988608",
+    "Title": "Improvement of Chronic Lateral Knee Pain Through Osteopathic Manipulative Treatment Targeting Anterior Fibular Head Somatic Dysfunction: A Case Report.",
+    "Abstract": "Chronic knee pain in young adults is frequently managed through conservative modalities, yet persistent dysfunction often leads to early orthopedic referral and eventual surgical intervention. This case describes a 26-year-old female medical student with nearly a decade of debilitating right lateral knee pain that persisted despite bracing, physical therapy, and corticosteroid injections. In the setting of valgus alignment and chronic symptoms, surgical options were discussed during orthopedic evaluation, but the patient pursued osteopathic manipulative treatment prior to reconsidering operative management. This patient also presented with multiple chronic comorbidities, including Hashimoto's thyroiditis, type 2 diabetes mellitus, and a history of obesity, all of which are known to increase mechanical stress and systemic inflammation contributing to musculoskeletal pain. Despite medical management for these metabolic and autoimmune disorders, her knee symptoms persisted and progressively worsened over several years. Osteopathic structural examination identified a right anterior fibular head somatic dysfunction. High-velocity, low-amplitude manipulation was performed, resulting in immediate and substantial pain reduction from 9/10 to 4/10, with near-complete relief over the following 24 hours. Continued myofascial and muscle-energy treatments were administered to maintain pain reduction and function for weeks thereafter. This case highlights the potential of targeted osteopathic manipulative treatment as a non-surgical, low-risk alternative for chronic knee pain in young adults and supports broader consideration of fibular head biomechanics in musculoskeletal diagnosis and management.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6BFA60> <Element 'ForeName' at 0x000002AECA6BFAB0>",
+    "Journal": "Cureus",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "type 2 diabetes mellitus"
+    ]
+  },
+  {
+    "PMID": "41985338",
+    "Title": "Effects of social determinants of health in pediatric sleep-disordered breathing and allergic rhinitis management: Social determinants on SDB and AR outcomes.",
+    "Abstract": "OBJECTIVE: To evaluate the impact of social determinants of health (SDoH) on clinical characteristics and surgical outcomes in pediatric patients with sleep-disordered breathing (SDB) and allergic rhinitis (AR) undergoing adenotonsillectomy (T&A) with or without inferior turbinate reduction (ITR).STUDY DESIGN: Retrospective cohort study.SETTING: UPMC Children's Hospital of Pittsburgh.METHODS: Pediatric patients with SDB and AR who underwent T&A with or without ITR from 2007 to 2017 were included. SDoH variables were race, insurance status, sex, and neighborhood-level measures such as Area Deprivation Index (ADI), Child Opportunity Index (COI), distance to hospital, and environmental pollutant exposure. Statistical analysis was performed using logistic regression, Spearman's rank correlation, and Wilcoxon rank-sum tests (α = 0.05).RESULTS: Asthma (41.4% vs 15.7%, p = 0.003) and eye symptoms (10.3% vs 0.9%, p = 0.03) were more common in non-White patients. Patients with allergic dermatitis lived in less deprived neighborhoods (median 23.5 vs 72, p = 0.02). Public insurance was associated with persistent AR symptoms (OR: 2.69, p = 0.02) and post-operative sneezing (OR: 6.66, p = 0.02). Greater distance to hospital correlated with younger age at surgery and higher post-operative apnea-hypopnea index (AHI). Increased industrial pollution was associated with reduced adenoid obstruction. Females had lower pre-operative AHI and higher oxygen nadir.CONCLUSIONS: Socioeconomic, environmental, and demographic factors significantly influence disease characteristics and outcomes in pediatric SDB and AR. Addressing these factors is necessary for promoting health equity in pediatric otolaryngologic care.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA68CB30> <Element 'ForeName' at 0x000002AECA68CDB0>",
+    "Journal": "International journal of pediatric otorhinolaryngology",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "pediatric asthma management"
+    ]
+  },
+  {
+    "PMID": "41983009",
+    "Title": "Low-Dose Versus High-Dose Methylprednisolone and Impact on Duration of Noninvasive Bilevel Positive Airway Pressure in Pediatric Severe Asthma Exacerbations.",
+    "Abstract": "OBJECTIVE: Corticosteroids are frequently used in asthma exacerbation management; however, there are few data on optimal dosing for patients needing positive pressure ventilation. The purpose of this study is to investigate the relationship between steroid dosing and asthma outcomes, specifically as it relates to patients admitted to the pediatric intensive care unit (PICU) who require noninvasive bilevel positive airway pressure (NBPAP) ventilation.METHODS: This retrospective study evaluated patients older than 2 years, admitted to the PICU and initiated on NBPAP for an asthma exacerbation during the study period. The methylprednisolone low-dose (0.5 mg/kg/dose with a maximum of 15 mg every 6 hours) and high-dose (1 mg/kg/dose with a maximum of 60 mg every 6 hours) strategies were used to determine the cohorts. The NBPAP duration and PICU and hospital length of stay were recorded.RESULTS: A total of 197 patients were included in the study: 95 patients made up the low-dose cohort and 102 patients were in the high-dose cohort. The patients in the low-dose cohort had a median time on NBPAP of 25.2 hours compared with 25.5 hours in the high-dose cohort (p = 0.949). There was also no -difference in PICU and hospital length of stay as well as inpatient steroid duration.CONCLUSIONS: No difference was observed between low-dose and high-dose methylprednisolone on -duration of NBPAP in pediatric severe asthma exacerbations.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA68CEF0> <Element 'ForeName' at 0x000002AECA68CE00>",
+    "Journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "pediatric asthma management"
+    ]
+  },
+  {
+    "PMID": "41980724",
+    "Title": "A Collaborative Initiative to Improve Anaphylaxis Management in Utah Schools.",
+    "Abstract": "Food allergies are a significant public health concern in the United States. Fatality from food-induced anaphylaxis is associated with delayed administration of epinephrine. Utah children were at increased risk for school-related anaphylaxis due to a lack of school nurses, adequately trained staff, and a standardized approach to food allergy emergency management. In collaboration with the Utah School Nurses Association, the Utah Food Allergy Network, and the Utah Department of Health & Human Services, among other contributors, we aimed to accomplish the following goals: (1) develop and implement a web-based curriculum to train school staff to recognize and respond to anaphylaxis in school settings; (2) educate school officials on existing legal protections for layperson first responders; and (3) facilitate acquisition of unassigned epinephrine for use in schools through existing charitable pharmaceutical programs. From 2012 to 2023, our training program was completed 5759 times by individuals representing 421 Utah schools. The course was most frequently completed by teachers (n = 3006, 52.2%), office staff (n = 1480, 25.7%), and principals (n = 276, 4.8%). Since 2015, we have maintained an average year-to-year retention rate of greater than 68%. We observed a 245% increase in the number of schools with unassigned epinephrine. Due to this intervention, many Utah schools now prepare employees to administer epinephrine in the case of anaphylactic emergencies. Although school nurses play a significant role, their coverage is inadequate to meet the needs of all students at risk for anaphylaxis. Training volunteers to recognize and respond to anaphylaxis in school settings is needed to reduce delays in treatment and improve outcomes.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67F6A0> <Element 'ForeName' at 0x000002AECA67F740>",
+    "Journal": "Pediatrics",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "pediatric asthma management"
+    ]
+  },
+  {
+    "PMID": "41978555",
+    "Title": "Outpatient Medication Prescribing Patterns in Bronchopulmonary Dysplasia: A Survey of Clinical Practices and Challenges.",
+    "Abstract": "OBJECTIVE: To understand the prescribing patterns and clinical practices of providers for infants and children with bronchopulmonary dysplasia (BPD) in the outpatient clinic setting.METHODS: We conducted a survey of BPD Collaborative programs from diverse geographic areas inside and outside the United States from January 2025 through March 2025.RESULTS: Twenty-nine of 45 centers in the BPD Collaborative completed the survey, including 27 from the U.S. and 2 from other countries. The majority of respondents identified as pediatric pulmonologists (72.4%). Most healthcare providers endorsed that patient symptomatology was a major driver of decision making (79.3%) and greater BPD severity correlated with a higher likelihood of medication use. Beta-agonists and inhaled corticosteroids (ICS) were the most commonly prescribed medications across all levels of severity. While prescriptions for pulmonary hypertension (PH) medications and diuretics decreased with age, use of inhaled medications persisted or increased in frequency. Challenges obtaining medications included insurance authorization issues (69.0%) and medication costs (51.7%). Adherence to therapy was a concern for over half of BPD programs.CONCLUSIONS: Despite limited evidence for outpatient pharmacotherapy in children with BPD, we identified consistent cross-center practice patterns. Providers reported that while the utilization of therapies was associated with higher BPD severity and greater respiratory support, medications were prescribed across the spectrum of disease severity. Treatment practices varied by age group and were often hindered by common barriers to accessing medications. These findings underscore the need to revise clinical guidelines to enhance long-term outpatient pharmacotherapy for infants and children with BPD.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6C8C70> <Element 'ForeName' at 0x000002AECA6C8CC0>",
+    "Journal": "Pediatric pulmonology",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "pediatric asthma management"
+    ]
+  },
+  {
+    "PMID": "41974617",
+    "Title": "The Asia-Pacific League of Associations for Rheumatology Consensus Recommendations on the Management of Juvenile Idiopathic Arthritis (JIA): Polyarticular Course JIA, Temporomandibular Joint Arthritis, Imaging, and Non-Pharmacologic Therapies.",
+    "Abstract": "BACKGROUND: Juvenile idiopathic arthritis (JIA) is one of the most common childhood rheumatic diseases. In the Asia-Pacific region, access to pediatric rheumatology services and therapies remains variable. To address regional disparities and promote evidence-based yet practical care, the APLAR developed consensus recommendations for the management of polyarticular-course JIA (pcJIA), temporomandibular joint (TMJ) arthritis, and non-pharmacologic interventions.METHODS: A multidisciplinary task force of 34 members from 14 countries, including pediatric and adult rheumatologists and patient representatives, was convened. The guideline development followed the GRADE, ADAPTE, and AGREE II frameworks. Existing international guidelines were critically appraised, and a systematic literature review was performed to address 26 PICO questions. Draft statements were discussed and voted upon using a modified Delphi process, with consensus defined as ≥ 80% agreement.RESULTS: Four overarching principles and 32 statements were finalized: 16 for pcJIA treatment, 10 for TMJ arthritis, 3 for non-pharmacologic therapies, 2 for imaging, and 1 for disease monitoring. Key recommendations that diverge from Western guidelines include: (1) stronger recommendation for methotrexate as initial therapy before biologic DMARDs; (2) explicit advocacy for TNF inhibitors, including biosimilars, when escalation is required; (3) cautious allowance of short-term systemic glucocorticoids where DMARDs are limited; (4) emphasis on treat-to-target using cJADAS-10; (5) stronger endorsement for physical and occupational therapy; and (6) conditional allowance of traditional and complementary medicine practices under professional supervision.CONCLUSION: These consensus statements provide regionally adapted, evidence-based recommendations to improve access, standardize management, and promote equitable care for patients with JIA across the Asia-Pacific region.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6C0090> <Element 'ForeName' at 0x000002AECA6C00E0>",
+    "Journal": "International journal of rheumatic diseases",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "pediatric asthma management"
+    ]
+  },
+  {
+    "PMID": "41980359",
+    "Title": "Biomaterials for bacterial recruitment function: A review.",
+    "Abstract": "Infectious diseases present a formidable challenge in clinical treatment, with their incidence rates escalating annually. Current therapeutic approaches predominantly rely on antibiotics; however, the emergence of antibiotic resistance has substantially compromised treatment efficacy. While novel anti-infection strategies continue to emerge, most conventional antibacterial modalities remain passive in nature, exhibiting inherent limitations in antimicrobial performance. Bacterial recruitment materials have garnered significant attention due to their unique capability to actively attract pathogens, thereby enhancing antibacterial efficacy. This review systematically examines bacterial recruitment technologies, outlines biomaterials exhibiting bacterial recruitment properties, and discusses their biomedical applications, underlying mechanisms, and preparation methodologies. Furthermore, it addresses current challenges associated with bacterial recruiting biomaterials and proposes future research directions to advance this field. Notably, these materials are not only applicable to the prevention and control of healthcare-associated infections but also provide novel strategies for the treatment of community-acquired infections such as skin and soft tissue infections, acute otitis media and urinary tract infections. Additionally, they can achieve tissue repair (e.g., osseointegration, chronic wound healing) by recruiting beneficial bacteria, reflecting their broad functional potential beyond anti-infection toward tissue regeneration.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6CBEC0> <Element 'ForeName' at 0x000002AECA6C9490>",
+    "Journal": "Colloids and surfaces. B, Biointerfaces",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "acute otitis media"
+    ]
+  },
+  {
+    "PMID": "41967279",
+    "Title": "Long-term otologic and auditory sequelae in children with recurrent acute otitis media.",
+    "Abstract": "",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6C83B0> <Element 'ForeName' at 0x000002AECA6C85E0>",
+    "Journal": "International journal of pediatric otorhinolaryngology",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "acute otitis media"
+    ]
+  },
+  {
+    "PMID": "41964158",
+    "Title": "Embedded AI-Assisted Otoscopic Image Screening for Pediatric Otitis Media.",
+    "Abstract": "OBJECTIVE: To evaluate an embedded artificial intelligence (AI) system for otoscopic image-based screening and prediagnostic triage of pediatric otitis media, with an emphasis on point-of-care deployment on a microcontroller.METHODS: We retrospectively analyzed 19 522 tympanic membrane images labeled by otolaryngologists as acute otitis media, otitis media with effusion, or normal. A lightweight convolutional neural network derived from AlexNet was trained using a patient-level split. Two posttraining INT8 variants (per-channel and per-tensor quantization) were deployed on an STM32H7S78-DK board using STM32Cube.AI. We evaluated accuracy on a held-out test set (n=600) and measured activation memory, total random access memory (RAM) usage, and average inference latency on the target device.RESULTS: The full-precision model achieved 97.67% test accuracy. Per-channel INT8 preserved accuracy (97.67%). Per-tensor INT8 showed a small decrease (97.50%) but reduced activation memory by 16%, total RAM by 8%, and latency by 13%.CONCLUSION: On-device otoscopic image analysis is feasible on an STM32H7-class microcontroller and may support screening and triage workflows (eg, repeat examination, tympanometry, monitoring, or referral). The tool is not intended to provide a final diagnosis or to direct treatment decisions; clinical diagnosis and management remain clinician-led.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67E340> <Element 'ForeName' at 0x000002AECA67C180>",
+    "Journal": "Ear, nose, & throat journal",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "acute otitis media"
+    ]
+  },
+  {
+    "PMID": "41922648",
+    "Title": "Health Utilities Associated with Pneumococcal Diseases in Children and Adults: A Targeted Literature Review and Meta-analysis.",
+    "Abstract": "BACKGROUND: Pneumococcal disease and post-meningitis sequelae (PMS) impact health-related quality of life (HRQoL). However, health utility estimates for these conditions vary considerably in the literature, which may affect the outcomes of economic evaluations.OBJECTIVES: The aim was to generate pooled estimates of quality-adjusted life year (QALY) decrements per episode for pneumococcal disease and pooled health state utility value (HSUV) estimates for PMS in children and adults.METHODS: Global targeted literature reviews were conducted in MEDLINE in June 2024 to identify original studies on the health utilities of pneumococcal disease and PMS. Random-effects meta-analyses were conducted separately for children (< 18 years) and adults (≥ 18 years) to calculate pooled estimates of QALY decrements per episode for pneumococcal disease states and pooled HSUV estimates for PMS.RESULTS: A total of 40 studies, published from 1993-2022, were included. Fifteen were conducted among children, 19 among adults, and six among both age groups. In children, the pooled QALY decrement estimates (95% confidence interval [CI]) per episode were 0.023 (0.017-0.030) for meningitis, 0.010 (0.003-0.017) for bacteremia/sepsis, 0.014 (0.002-0.026) for inpatient pneumonia, 0.010 (0.002-0.017) for outpatient pneumonia, 0.008 (0.003-0.013) for unspecified pneumonia, 0.005 (0.005-0.006) for recurrent/complex acute otitis media (AOM), and 0.003 (0.001-0.005) for simple AOM. The pooled HSUV estimates for PMS in children were 0.485 (0.322-0.649) for neurological deficits, 0.701 (0.563-0.839) for hearing loss, and 0.827 (0.713-0.941) for unspecified PMS. In adults, the pooled QALY decrement estimates per episode (95% CI) were 0.027 (0.018-0.036) for meningitis, 0.013 (0.000-0.027) for bacteremia/sepsis, 0.015 (0.008-0.021) for inpatient pneumonia, 0.007 (0.005-0.008) for outpatient pneumonia, and 0.009 (0.001-0.018) for unspecified pneumonia. The pooled HSUV estimates for PMS in adults were 0.556 (0.447-0.665) for neurological deficits, 0.700 (0.631-0.768) for hearing loss, and 0.778 (0.744-0.812) for unspecified PMS. Moderate to high heterogeneity levels were observed in most of the meta-analyses performed in this study.CONCLUSIONS: Pneumococcal disease and PMS substantially reduce HRQoL in children and adults, with the greatest impacts observed with meningitis, inpatient pneumonia, and bacteremia/sepsis. There is considerable variability in utility estimates across studies, likely driven by methodological differences. This analysis provides a comprehensive quantitative synthesis of QALY decrement estimates for pneumococcal disease states and HSUV estimates for PMS, improving our understanding of the HRQoL burden and potentially enhancing the comparability of future economic evaluations of pneumococcal vaccines.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA68FB00> <Element 'ForeName' at 0x000002AECA68FA10>",
+    "Journal": "PharmacoEconomics - open",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "acute otitis media"
+    ]
+  },
+  {
+    "PMID": "41914730",
+    "Title": "Lipidated Protein D vaccination elicits humoral and cellular responses and protects mice against challenge with non-typeable Haemophilus influenzae.",
+    "Abstract": "Nontypeable Haemophilus influenzae (NTHi) is a primary cause of acute otitis media (AOM) in children and lower respiratory tract infections in adults. Vaccines that can reduce nasopharyngeal carriage and prevent disease are needed. We used an adult murine model of nasopharyngeal carriage and AOM infection to evaluate immunogenicity and protection provided by subcutaneous and intramuscular vaccination with lipidated Protein D (L-PD) compared with non-lipidated PD (NL-PD) formulated with and without alum adjuvant. ELISA was used for antibody measurements and flow cytometry to characterize T-cell immunity. L-PD + Alum subcutaneous vaccination induced low levels of PD-specific IgG antibodies and significantly elevated Th17 and T effector memory cell activation in cervical lymph nodes and splenocytes compared with NL-PD + Alum. The addition of alum increased bactericidal antibody activity. Intramuscular vaccination with L-PD with and without alum induced 3- to 4-fold log10 higher PD-specific IgG antibodies than subcutaneous vaccination but did not elicit Th17 or T effector memory cell activation. Subcutaneous vaccination with L-PD + Alum protected mice within both the nasopharynx and middle ear. Middle ear bacterial density reduction correlated with IgG antibody levels after intramuscular vaccination with L-PD + Alum but not L-PD without alum, yet no protection from nasopharyngeal carriage occurred. PD + Alum vaccination increased humoral and cellular immunity and protected mice from NTHi carriage and AOM, whereas NL-PD did not. Activation of Th17 immunity by lipidation of PD and subcutaneous vaccination correlated with protection from nasopharyngeal carriage of NTHi.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6DCB30> <Element 'ForeName' at 0x000002AECA6DCB80>",
+    "Journal": "Infection and immunity",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "acute otitis media"
+    ]
+  },
+  {
+    "PMID": "41989782",
+    "Title": "Nephrologist Affiliation With Dialysis Facilities and Patient Trajectories in End-Stage Kidney Disease.",
+    "Abstract": "IMPORTANCE: Across the treatment modalities for end-stage kidney disease (ESKD), kidney transplantation offers the best survival and quality-of-life outcomes, yet most patients are unable to receive a transplant, making dialysis the most common long-term treatment option. Despite its advantages, home peritoneal dialysis (PD) use remains limited in the US, with financial incentives potentially contributing to this underutilization.OBJECTIVE: To examine the association between nephrologist affiliation with dialysis facilities and facility characteristics, including profit status and PD service offerings, with 2 critical ESKD outcomes: PD catheter placement and kidney transplant surgery.DESIGN, SETTING, AND PARTICIPANTS: This retrospective cohort study was conducted using claims data from Medicare beneficiaries with ESKD who initiated dialysis between 2013 and 2022, with follow-up through 24 months after dialysis initiation. Data were analyzed from January 1, 2024, to December 31, 2025.EXPOSURE: Nephrologist affiliation with dialysis facilities, determined by whether a nephrologist submitted any outpatient claims from a Medicare-certified dialysis facility.MAIN OUTCOMES AND MEASURES: Outcomes included PD catheter placement and kidney transplant surgery within 24 months of dialysis initiation. Adjusted 24-month cumulative incidences and risk differences were estimated using a doubly robust survival targeted maximum likelihood estimation framework.RESULTS: Among the 28 040 beneficiaries (mean [SD] age, 70.6 [10.8] years; 56.8% male) included in this study, 24 301 (86.7%) were attributed to affiliated nephrologists. The mean (SD) follow-up time was 322 (307) days. The adjusted 24-month cumulative incidence of PD catheter placement was 9.9% for patients of affiliated nephrologists compared with 8.2% for patients of nonaffiliated nephrologists (adjusted difference, 1.7 percentage points [pp] [95% CI, 0.6-2.8 pp]; P = .01). In stratified models, the adjusted difference in PD catheter placement was larger for nephrologists affiliated with for-profit facilities (1.9 pp [95% CI, 0.8-3.0 pp]; P = .01) and for those affiliated with facilities offering PD (2.0 pp [95% CI, 0.8-3.2 pp]; P = .01). Differences in kidney transplant surgery within 24 months were small and not statistically significant.CONCLUSIONS AND RELEVANCE: In this retrospective cohort study of Medicare beneficiaries initiating dialysis, nephrologist affiliation with dialysis facilities, especially for-profit centers or centers offering PD, was associated with a higher 24-month cumulative incidence of PD catheter placement, while the cumulative incidence of kidney transplant surgery within 24 months did not differ meaningfully by affiliation. These findings underscore the potential role of economic and organizational factors in promoting PD, and they highlight the need for policy reforms that expand home-based dialysis while preserving equitable access to transplantation.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67C1D0> <Element 'ForeName' at 0x000002AECA67CAE0>",
+    "Journal": "JAMA network open",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "chronic kidney disease"
+    ]
+  },
+  {
+    "PMID": "41989569",
+    "Title": "Low versus standard calorie and protein feeding and renal dysfunction in ventilated adults with shock: a NUTRIREA-3 post hoc analysis.",
+    "Abstract": "PURPOSE: The optimal intake of artificial nutrition in critically ill patients remains unclear. While calorie and protein intakes affect glomerular function in patients with chronic kidney disease, their relation to renal function at the acute phase of intensive care is insufficiently documented. We aimed to study associations of a low-calorie and low-protein diet with renal outcomes in critically ill patients.METHODS: This post hoc analysis of the NUTRIREA-3 randomized-controlled trial included 3036 mechanically ventilated patients with shock. Calorie and protein intakes during the first 7 days were either low (6 kcal/kg and 0.2-0.4 g protein/kg/d) or standard (25 kcal/kg and 1.0-1.3 g protein/kg/d). The primary outcome was the incidence of acute kidney disease (AKD) during the ICU stay (up to ICU discharge or day 90 after inclusion, whichever occurred first).RESULTS: AKD during the ICU stay occurred in 669 (44.6%) low-group patients and 691 (46.1%) standard-group patients (hazard ratio, 0.97; 95% CI 0.88-1.07; P = 0.53). The highest urea level and the urea level at ICU discharge were significantly lower in the low group (P = 0.002). No differences were found for renal replacement therapy requirements or other renal outcomes. The results were similar in patients with early kidney dysfunction, severe organ failures, or end-stage chronic kidney disease.CONCLUSION: In critically ill patients with shock, early low-calorie and low-protein nutrition for 7 days was not associated with worse renal outcomes or mortality compared to standard feeding, even in patients with preexisting renal dysfunction.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67F8D0> <Element 'ForeName' at 0x000002AECA67FA10>",
+    "Journal": "Intensive care medicine",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "chronic kidney disease"
+    ]
+  },
+  {
+    "PMID": "41989528",
+    "Title": "Critical appraisal of \"bilteral versus single internal mammary artery use in patients with chronic kidney disease\".",
+    "Abstract": "",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6BC1D0> None",
+    "Journal": "General thoracic and cardiovascular surgery",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "chronic kidney disease"
+    ]
+  },
+  {
+    "PMID": "41989512",
+    "Title": "Supplementation with the probiotic Bifidobacterium lactis BB-12 improves the efficacy of alendronate sodium/vitamin D₃ therapy on skeletal health in stage 3 CKD.",
+    "Abstract": "",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6BEA70> <Element 'ForeName' at 0x000002AECA6BEAC0>",
+    "Journal": "Journal of endocrinological investigation",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "chronic kidney disease"
+    ]
+  },
+  {
+    "PMID": "41984398",
+    "Title": "Heme Iron Polypeptide Resolves Iron-deficiency Anemia in Rats and Mice.",
+    "Abstract": "",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6DEE30> <Element 'ForeName' at 0x000002AECA6DEDE0>",
+    "Journal": "Biological trace element research",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "iron deficiency anemia"
+    ]
+  },
+  {
+    "PMID": "41983022",
+    "Title": "Administration of Intravenous Ferric Carboxymaltose in a Patient With Iron-Deficiency Anemia and Allergy to 2 Oral Iron Preparations.",
+    "Abstract": "Iron deficiency is a common occurrence in the pediatric population, often leading to the development of anemia. The first line of treatment is oral iron administration for the resolution of anemia and replenishment of iron stores. Although rare, patients may present with allergic reactions to iron, which can limit treatment modalities. We present the case of a 14-month-old boy who presented with iron-deficiency anemia and demonstrated allergy to 2 oral iron formulations. Our institution developed a treatment plan that includes adding premedications and slowly titrating of the infusion rate for the administration of intravenous iron. The patient successfully tolerated 2 infusions without developing allergic reactions and experienced resolution of his iron-deficiency anemia. When patients with iron-deficiency anemia are allergic to oral iron formulations, their treatment options are limited. There are a few reports of effective desensitizations with intravenous ferric carboxymaltose in pediatric patients. Our successful experience may help guide other institutions with similar patients.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA68F560> <Element 'ForeName' at 0x000002AECA68F060>",
+    "Journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "iron deficiency anemia"
+    ]
+  },
+  {
+    "PMID": "41977089",
+    "Title": "Cutaneous Manifestations as a Sentinel of Colorectal Cancer: A Case Report.",
+    "Abstract": "Erythema gyratum repens (EGR) is a rare figurate erythema strongly associated with internal malignancy and recognized as one of the most specific cutaneous paraneoplastic syndromes. Its recognition is clinically important, as it frequently precedes the diagnosis of an underlying neoplasm. We report the case of an 80-year-old woman who presented to the emergency department with a rapidly progressive, intensely pruritic eruption displaying a characteristic concentric \"wood-grain\" pattern. Laboratory evaluation revealed iron-deficiency anemia. Contrast-enhanced computed tomography identified a right-sided colonic mass, and colonoscopy with biopsy confirmed adenocarcinoma of the cecum. The patient underwent elective laparoscopic right hemicolectomy with complete tumor resection (pT3N0, microsatellite stable). Following surgery, the cutaneous lesions resolved completely and did not recur during follow-up. This case highlights erythema gyratum repens as a clinically relevant early marker of colorectal cancer and emphasizes the importance of prompt recognition of this distinctive dermatosis to trigger urgent and comprehensive malignancy screening, enabling timely diagnosis and definitive treatment.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67FC90> <Element 'ForeName' at 0x000002AECA67FF60>",
+    "Journal": "Journal of clinical medicine",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "iron deficiency anemia"
+    ]
+  },
+  {
+    "PMID": "41975762",
+    "Title": "Utility of Colonoscopy After Acute Colonic Diverticulitis.",
+    "Abstract": "Acute diverticulitis (AD) is a common gastrointestinal condition that has seen a significant rise in incidence and prevalence, largely due to the aging population and the increasing prevalence of obesity. Historically, routine colonoscopy was recommended after every episode of AD, but recent studies and meta-analyses have questioned this practice. Evidence now supports a more selective approach, suggesting that colonoscopy should only be performed in patients with complicated AD, persistent alarm symptoms (abdominal pain, weight loss, altered bowel habits, blood in stool, or iron-deficiency anemia), or imaging findings suggestive of neoplasia. For uncomplicated AD without alarm symptoms, routine colonoscopy is not justified, as it may lead to unnecessary complications and overuse of healthcare resources. Current guidelines reflect this shift, recommending individualized decision-making based on the patient's clinical history and risk factors. Emerging non-invasive diagnostic tools, such as fecal immunochemical tests (FIT) and artificial intelligence (AI)-based models, hold promise for improving risk stratification and potentially reducing the need for invasive procedures. This narrative review, based on a structured literature search, synthesizes the evolution of post-AD colonoscopy recommendations, presents current evidence, and highlights future research directions on alternative diagnostic methods and their potential to optimize patient care and clinical decision-making.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6A6480> <Element 'ForeName' at 0x000002AECA6A64D0>",
+    "Journal": "Diagnostics (Basel, Switzerland)",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "iron deficiency anemia"
+    ]
+  },
+  {
+    "PMID": "41974620",
+    "Title": "Anemia of Chronic Disease Revisited: Hepcidin Dysregulation, Erythropoietic Failure, and Emerging Roles of SGLT2 Inhibition.",
+    "Abstract": "Anemia of chronic disease (ACD), also referred to as anemia of inflammation, is a prevalent and clinically significant complication of chronic infection, autoimmune disease, malignancy, and chronic kidney disease. It is characterized by inflammation-driven iron sequestration, impaired erythropoietin (EPO) production and signaling, and suppression of effective erythropoiesis. Current therapies (iron supplementation and erythropoiesis-stimulating agents) often address downstream consequences and may be limited by hepcidin-driven functional iron deficiency, cytokine-mediated EPO resistance, and safety concerns in vulnerable populations. This review re-examines ACD through an integrated framework of hepcidin dysregulation, iron sequestration, and inflammatory inhibition of the EPO axis. We then synthesize emerging evidence that sodium-glucose cotransporter 2 (SGLT2) inhibitors produce sustained increases in hemoglobin/hematocrit beyond transient hemoconcentration across cardiovascular and kidney disease trials, including in non-diabetic populations. Mechanistic studies suggest a coordinated biologic response that may include reduced hepcidin, improved iron mobilization, physiologic augmentation of endogenous EPO, and attenuation of systemic inflammation-pathways directly relevant to ACD. We critically re-appraise current ACD paradigms by contrasting downstream \"replacement\" strategies (iron and ESAs) with pathway-level approaches (HIF-PHIs and SGLT2 inhibition), and we outline biomarker-guided study designs to test whether SGLT2 inhibition may act as an adjunctive physiologic modulator of iron-erythropoietic crosstalk in well-phenotyped inflammatory anemia cohorts, while emphasizing that current evidence remains hypothesis-generating rather than practice-changing.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6F1EE0> <Element 'ForeName' at 0x000002AECA6F1F30>",
+    "Journal": "European journal of haematology",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "iron deficiency anemia"
+    ]
+  },
+  {
+    "PMID": "41987840",
+    "Title": "A New Preview of Antibiotic-resistant Spectrum in Community-acquired Pneumonia: A Cross-Sectional Study from Iraq.",
+    "Abstract": "INTRODUCTION/OBJECTIVES: Community-acquired pneumonia (CAP) remains one of the leading sources of morbidity/mortality in the world. However, the increasing problem of antimicrobial resistance (AMR) aggravates the issue. This research intends to explore the prevalent levels of resistance to antibacterial drugs in bacteria isolated from patients in Iraq experiencing CAP.METHODS: A cross-sectional study was conducted on 122 clinically and radiologically confirmed CAP patients at Al-Yarmouk Teaching Hospital, Baghdad, from May 2023 to June 2024. Sputum samples were evaluated microscopically and analyzed for culture and sensitivity using the VITEK® 2 system.RESULTS: Of 122 patients, 44 (36.1%) had positive bacterial cultures. S. pneumoniae and S. sanguinis bacteria, along with S. aureus and P. aeruginosa, stood out as the common ones, causing 18.2% each. S. aureus comprised 11.4%, followed by P. aeruginosa. S. pneumoniae and S. sanguinis showed 100% resistance to azithromycin, clindamycin, and ciprofloxacin. S. aureus was 60% & 20% resistant to vancomycin & linezolid. Extremely alarming was the near-total resistance of Acinetobacter baumannii.DISCUSSION: This study provides the first detailed resistance profile for CAP pathogens in Iraq using modern automated diagnostics. The findings reveal alarmingly high levels of antibiotic resistance, including pan-resistant strains.CONCLUSION: The problem of antibiotic resistance in CAP in Iraq is very serious and rising because of the development of pan-resistant bacteria. Currently, the requirement exists for comprehensive antibiotic stewardship programs in the whole of Iraq, along with strict implementation of measures against the free sale of antibiotics.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6F2CA0> <Element 'ForeName' at 0x000002AECA6F2D40>",
+    "Journal": "The open respiratory medicine journal",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "community acquired pneumonia"
+    ]
+  },
+  {
+    "PMID": "41987106",
+    "Title": "Serum mass spectral fingerprints with machine learning for early discrimination of infectious pneumonia in the emergency department.",
+    "Abstract": "",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67D850> <Element 'ForeName' at 0x000002AECA67F740>",
+    "Journal": "BMC infectious diseases",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "community acquired pneumonia"
+    ]
+  },
+  {
+    "PMID": "41985983",
+    "Title": "Personalised management of community-acquired pneumonia and the role of Clinical Decision Support Software.",
+    "Abstract": "Community-acquired pneumonia (CAP) is one of the most common causes of hospital admission and is associated with significant morbidity and mortality. National and international guidelines are available to guide the management of CAP, including antibiotic prescribing. However, these guidelines are often not adhered to and there is significant overprescribing of broad-spectrum antibiotics, contributing to the growing pandemic of antimicrobial resistance. Clinical Decision Support Software (CDSS) are electronic tools that use individual patient data to generate patient specific assessments or recommendations, that can then be acted on by the patient or clinical decision maker. This article reviews the evidence surrounding the initial management of CAP in hospital and considers the potential of CDSS to support CAP management.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA68F510> <Element 'ForeName' at 0x000002AECA68CEA0>",
+    "Journal": "BMJ open respiratory research",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "community acquired pneumonia"
+    ]
+  },
+  {
+    "PMID": "41985406",
+    "Title": "Predictors of secondary cardiovascular events in older adults with community-acquired pneumonia: a prospective observational study.",
+    "Abstract": "BACKGROUND: Older adults hospitalized with Community-Acquired Pneumonia (CAP) frequently experience early secondary cardiovascular events. The authors quantified risk factors and the incremental value of frailty and cardiac biomarkers beyond the Pneumonia Severity Index (PSI).METHODS: The authors ran a single-center, prospective cohort of adults ≥65-years with CAP admitted between January and December 2024. The primary endpoint was any in-hospital SCE (acute heart failure, MI/ACS per Fourth Universal Definition, new atrial fibrillation/flutter, ischemic stroke/TIA, or cardiovascular death). Prespecified predictors were prior cardiovascular disease, PSI, Clinical Frailty Scale (CFS), High-Sensitivity Troponin (hs-cTn), and NT-proBNP. Penalized multivariable logistic regression estimated adjusted odds ratios, 30- and 90-day outcomes were used to cause-specific Cox and Fine-Gray models.RESULTS: Among 172 patients (median age 77; 46% women), in-hospital SCEs occurred in 27.9% patients (48 out of 172 patients with 65 total component events; 95% CI 21.7-35.0), and 68.8% occurred within 72 h. Specifically, heart failure was 18.0%, new atrial fibrillation was 9.9%, MI was 5.8%, and cardiovascular death was 2.9%. In multivariable analysis, CFS ≥ 5 (Aor = 2.07, 95% CI 1.03-4.17), abnormal hs-cTn (aOR = 2.52, 1.25-5.06), and NT-proBNP per doubling (aOR = 1.38, 1.12-1.71) independently predicted SCEs. Discrimination improved from AUC 0.68 (PSI) to 0.73 with CFS and 0.79 with biomarkers (optimism-corrected 0.77), with NRI +0.18 and decision-curve net benefit at 10%-25% thresholds. Cumulative SCE incidence was 33.7% at 30-days and 37.8% at 90-days. Fine-Gray results were consistent.CONCLUSIONS: SCEs were common and occurred early after admission. Adding frailty and cardiac biomarkers to PSI improved risk stratification and may help high-risk patients receive closer monitoring. External validation is needed before its clinical application.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6C9AD0> <Element 'ForeName' at 0x000002AECA6CBEC0>",
+    "Journal": "Clinics (Sao Paulo, Brazil)",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "community acquired pneumonia"
+    ]
+  },
+  {
+    "PMID": "41983635",
+    "Title": "Association Between the Red Cell Distribution Width-to-Albumin Ratio and Pediatric Community-Acquired Pneumonia.",
+    "Abstract": "BACKGROUND: Although the prognostic value of the red cell distribution width-to-albumin ratio (RAR) has been well demonstrated in adult diseases, there is a lack of data regarding its role in pediatric community-acquired pneumonia (CAP). We aimed to investigate the association between RAR and pediatric CAP and to evaluate its ability to predict clinical outcomes using routinely available laboratory parameters.METHODS: We retrospectively included 1151 children hospitalized with pneumonia between 2013 and 2024. RAR-CV was calculated by dividing red cell distribution width-coefficient of variation (RDW-CV) by albumin concentration, and RAR-SD by dividing red cell distribution width-standard deviation (RDW-SD) by albumin.RESULTS: RAR values were significantly associated with all outcomes. The area under the curve (AUC) values of RAR for predicting pediatric intensive care unit (PICU) admission, invasive mechanical ventilation (IMV), and vasopressor use were higher than those of its individual components (RDW and albumin). In ROC analyses including all clinical parameters, no variable outperformed RAR in predicting these outcomes. RAR significantly predicted PICU admission, IMV, vasopressor use, and mortality (p < 0.001), and RAR-SD showed good predictive performance for mortality (AUC = 0.809).CONCLUSIONS: To our knowledge, this is the first study to evaluate the prognostic value of RAR in pediatric CAP. Our findings demonstrate a strong association between RAR levels and adverse clinical outcomes. Given its simplicity, cost, and availability, RAR may serve as a valuable biomarker to support risk stratification and prognostication in children with CAP.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6DE9D0> <Element 'ForeName' at 0x000002AECA6DE8E0>",
+    "Journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "community acquired pneumonia"
+    ]
+  },
+  {
+    "PMID": "41989693",
+    "Title": "Plant-Based Diet and Pregnancy-Related Disorders: A Narrative Review.",
+    "Abstract": "",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA68F380> <Element 'ForeName' at 0x000002AECA68F2E0>",
+    "Journal": "Current nutrition reports",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "gestational diabetes"
+    ]
+  },
+  {
+    "PMID": "41989035",
+    "Title": "Postpartum Care for Patients With Diabetes: A Comprehensive and Whole-Life Approach.",
+    "Abstract": "Diabetes in pregnancy is associated with increased risk of cardiometabolic syndrome, mood disorders, intimate partner violence, and additional sequelae. These risks may persist beyond the pregnancy into the postpartum period. Comprehensive management and counseling require an understanding of the physiology of the puerperium, types of potential complications, and evidence behind management options. This review will discuss evidence-based immediate postpartum management, the impact of lactation on diabetes, and the long-term and transgenerational impact of diabetes in pregnancy.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6F3B00> <Element 'ForeName' at 0x000002AECA6F33D0>",
+    "Journal": "Clinical obstetrics and gynecology",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "gestational diabetes"
+    ]
+  },
+  {
+    "PMID": "41988872",
+    "Title": "High glucose exposure induces differential pathophysiologic changes in feto-maternal interface cells.",
+    "Abstract": "Gestational diabetes mellitus (GDM), a hyperglycemic condition during pregnancy, increases the risk of macrosomia and preterm birth (PTB). Nutrient-sensing pathways, particularly mTOR in placental trophoblasts (PTC), promote fetal overgrowth. NF-κB, oxidative stress, and p38 MAPK pathways in fetal membranes and decidua (DEC) contribute to PTB. However, the impact of hyperglycemia on these compartments remain unclear. We hypothesized that hyperglycemia differentially affects these maternal, placental, and fetal membrane interface cells, inducing macrosomia-associated pathways and perturbing homeostasis through different pathophysiologic signals. Human PTC, DEC, and amnion epithelial (AEC) cells were exposed to 50 mM glucose for up to 48 hr. Cell markers (ICC), cell cycle (flow cytometry), cytotoxicity (LDH assay), GLUT expression (RT-qPCR), signaling (mTOR, p38 MAPK, NF-κB by western blot), cytokines (ELISA), and oxidative stress (glutathione assay) were measured. PTC showed increased mTOR and p38 MAPK activation (p≤0.05), reduced GSH levels and GSH/GSSG balance (p≤0.05), but maintained GLUT expression. DEC reduced GLUT1/3 expression (p≤0.01, p≤0.05) with minimal stress and nutrient signaling. Neither cell type showed NF-κB activation. AEC downregulated GLUT1/3/11 (p≤0.05-0.0001), activated NF-κB (p≤0.01), produced IL-8 (p≤0.01), increased GSH production (p≤0.05), but maintained mTOR signaling and GSH/GSSG balance. Hyperglycemia induces compartment-specific adaptations across the feto-maternal interface. Placental trophoblasts preserve nutrient transport capacity and nutrient-signaling despite redox imbalanc.e Fetal membranes exhibit inflammatory response, while decidua reduce transport capacity with minimal stress activation. Together, these findings suggest that hyperglycemia may preferentially support fetal growth through trophoblasts while sensitizing decidua and membrane to secondary stressors.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6F6110> <Element 'ForeName' at 0x000002AECA6F6160>",
+    "Journal": "The Journal of endocrinology",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "gestational diabetes"
+    ]
+  },
+  {
+    "PMID": "41988815",
+    "Title": "Gestational weight gain ranges in normal and morbid outcomes of pregnancy in a South Indian cohort.",
+    "Abstract": "OBJECTIVE: To evaluate the gestational weight gain (GWG) in normal pregnancy and pregnancy-related morbidities in a cohort of South Indian pregnant women in order to address the lack of data on population-specific Indian GWG ranges.METHOD: This observational study included pregnant women who delivered in KAHER's Dr. Prabhakar Kore Charitable Hospital, Belagavi. A univariate regression model was used to study the association of excess and suboptimal GWG with the occurrence of morbid outcomes in pregnancy.RESULTS: Among 3603 deliveries, 2003 women were screened for eligibility, and 350 participants were included based on the inclusion criteria. Participants were categorized into two groups: normal outcomes (104; 29.7%), and outcomes with morbidities (246; 70.3%). Excess GWG was observed in various morbidities: macrosomia (15.40 ± 5.35 kg), diabetes in pregnancy (12.96 ± 5.86 kg), pregnancy-induced hypertension (12.91 ± 4.97 kg), maternal intensive care unit (ICU) admissions (12.16 ± 4.2 kg), and emergency lower segment cesarean (11.21 ± 4.75 kg) compared with GWG in women with normal outcome. Suboptimal GWG was observed in other morbidities: low birth weight (10.24 ± 4.23 kg), stillbirth (9 ± 5.77 kg), neonatal ICU admission (8.58 ± 3.34 kg), and fetal growth restriction (8.71 ± 3.15 kg).CONCLUSION: The mean GWG in the South Indian cohort of pregnant women was lower than the IOM (Institute of Medicine) recommendations. India-specific GWG guidelines are needed to optimize maternal and neonatal health through evidence-based prenatal care strategies.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6A6B10> <Element 'ForeName' at 0x000002AECA6A6D90>",
+    "Journal": "International journal of gynaecology and obstetrics: the official organ of the International Federation of Gynaecology and Obstetrics",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "gestational diabetes"
+    ]
+  },
+  {
+    "PMID": "41986138",
+    "Title": "AI triage of duodenal biopsies improves workflow.",
+    "Abstract": "AIMS: To develop, deploy and evaluate artificial intelligence (AI) for triaging duodenal biopsies within a National Health Service (NHS) histopathology laboratory, with the aim of improving reporting turnaround times for clinically significant diagnoses.METHODS: The pathway was developed in the UK in an NHS laboratory. Rule-based automation software was used to find all newly scanned duodenal biopsy slides. Those with case numbers ending in an odd number were exported for AI triage and if they had significant AI predicted abnormalities they were prioritised for reporting. The cases with even numbers followed the routine reporting pathway.RESULTS: 313 cases (517 duodenal slides) were processed by the routine pathway, and 329 cases (533 duodenal slides) were processed by the AI triage pathway. AI processing took about 70 s per slide. The AI classifier had a sensitivity and positive predictive value (PPV) as follows: normal small bowel: 99.6%, 95.7%; coeliac disease: 86.7%, 100%; gastric heterotopia: 84.6%, 95.7%; adenoma: 88.9%, 88.9%; adenocarcinoma: 50.0%, 100%. In the AI triage workstream coeliac disease, and non-neoplastic abnormalities as a group, were reported quicker than in the standard workstream (6 days vs 10 days and 7 days vs 10 days, respectively, both p<0.005), but neoplastic lesions were not reported quicker. The cost of deployment and operation was reasonable.CONCLUSIONS: An NHS histopathology laboratory successfully developed and implemented an AI-based triage system for duodenal biopsies, achieving high diagnostic accuracy and significantly improving turnaround times for coeliac disease and non-neoplastic abnormalities as a group. This study demonstrates the feasibility and clinical value of locally developed AI tools within routine diagnostic practice.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6F26B0> <Element 'ForeName' at 0x000002AECA6F1D50>",
+    "Journal": "Journal of clinical pathology",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "celiac disease diagnosis"
+    ]
+  },
+  {
+    "PMID": "41983487",
+    "Title": "Bioelectrical Impedance Analysis to Identify the Affected Body Component in Girls With Celiac Disease.",
+    "Abstract": "PURPOSE: To investigate the clinical applicability of comparing bioelectrical impedance analysis (BIA) measurements between female patients with celiac disease (CD) and healthy control subjects with Tanner stage 2-5 to identify the affected body component in CD patients.METHODS: This cross-sectional study was conducted with 36 female patients aged between 8 and 17 years who were followed up with a diagnosis of celiac disease and 72 female controls. The research was carried out between January 2024 and June 2025. In both groups, girls with Tanner stage 2-5 were included in the study.RESULTS: Thirty-six cases were diagnosed with CD and 72 were controls. The mean age of the case group was 12.7 ± 3.1 and the mean age of the control group was 12.0 ± 2.9 (p = 0.228). The ratio of fat free mass to whole body was 78.0% ± 3.4% in the case group and 80.0% ± 4.2% in the control group (p = 0.016). Muscle mass ratio was detected lower in the case group compared to the control group (73.9 ± 3.3 vs. 75.9 ± 4.0; p = 0.014). Fat ratio was analyzed higher in the case group (21.6 ± 3.6 vs. 19.6 ± 4.3; p = 0.023). In CD, patients with high tissue transglutaminase IgA (tTGIgA) and anti-endomysial antibody (EMA) values were found to have higher fat ratio and lower muscle ratio, but the results were not significant.CONCLUSION: Total body fat ratio is higher and muscle mass ratio is lower in CD patients despite gluten-free diet.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6C8400> <Element 'ForeName' at 0x000002AECA6C85E0>",
+    "Journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "celiac disease diagnosis"
+    ]
+  },
+  {
+    "PMID": "41975174",
+    "Title": "Celiac Disease: A Comprehensive Review of Epidemiology, Pathogenesis, and Therapeutic Strategies.",
+    "Abstract": "Celiac disease (CD) is a T-cell-immune mediated enteropathy triggered by gluten ingestion in genetically susceptible individuals. The estimated global prevalence is 1% (range 0.7-1.4%), and the clinical manifestation results from a complex interplay of genetic, immunologic, and environmental factors. Although it occurs predominantly in predisposed individuals with the genetic haplotypes HLA-DQ2, HLA-DQ8, or DQA1*05 haplotypes, several other predisposing genes have been described. Clinical presentations are variable and include both gastrointestinal and extraintestinal manifestations, contributing to underdiagnosis. Diagnosis is based on a combination of positive serologic tests-such as IgA tissue transglutaminase and IgG deaminated gliadin peptide in IgA-deficient patients, which are used for screening- characteristic histological findings on duodenal biopsy, and symptom resolution following initiation of a gluten-free diet (GFD). Poorly controlled disease may lead to complications, including osteoporosis, malnutrition, vitamin deficiencies, and small bowel lymphoma. A strict gluten-free diet is the only effective treatment, with symptom improvement typically observed within weeks of initiation of therapy. However, adherence is often challenging, socially isolating, and a multidisciplinary approach is essential for optimal management. Several non-dietary therapeutic strategies are currently under investigation. This review summarizes current evidence on epidemiology, pathophysiology, diagnosis, and management of CD, while highlighting emerging therapeutic strategies and approaches to patient care.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6DD8F0> <Element 'ForeName' at 0x000002AECA6DF1F0>",
+    "Journal": "Digestive diseases and sciences",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "celiac disease diagnosis"
+    ]
+  },
+  {
+    "PMID": "41970294",
+    "Title": "Median Arcuate Ligament Syndrome: A Hidden Cause of Abdominal Pain.",
+    "Abstract": "Median arcuate ligament syndrome (MALS) is an uncommon condition where the median arcuate ligament compresses the celiac artery, leading to reduced blood flow. It commonly presents with upper abdominal pain after eating, unintentional weight loss, and an audible abdominal bruit. Since MALS is a diagnosis of exclusion, early identification and timely intervention are crucial in enhancing the patient's quality of life. A 43-year-old female presented with chronic postprandial epigastric pain, weight loss, and intermittent nausea for 3 months. The pain was described as dull and worsened after meals. MALS is a rare vascular compression syndrome that mimics other gastrointestinal disorders, often causing delayed diagnosis. Imaging techniques such as Doppler ultrasound, computed tomography angiography, and magnetic resonance angiography aid in diagnosis. Surgical decompression, primarily via laparoscopic median arcuate ligament release, is the preferred treatment and has shown significant symptom relief. MALS is a rare but treatable cause of chronic abdominal pain. A multidisciplinary approach and timely intervention are crucial for optimal patient outcomes.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA68D120> <Element 'ForeName' at 0x000002AECA68E980>",
+    "Journal": "Clinical case reports",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "celiac disease diagnosis"
+    ]
+  },
+  {
+    "PMID": "41960545",
+    "Title": "A retrospective analysis of interobserver variability in 356 cases over a period 10 years: Celiac disease.",
+    "Abstract": "Celiac disease (CD) is an immune-mediated enteropathy in which dietary gluten triggers a T-cell-driven inflammatory injury of the small-intestinal mucosa in genetically predisposed individuals. Therefore, it is of interest to compare the distribution of the diagnostic categories and the interobserver variation of the Modified Marsh-Oberhuber and Corazza-Villanacci histopathological categories in biopsy-proven celiac disease samples of 356 cases collected in 10 years. All duodenal biopsies were reviewed by two independent pathologists who scored it twice with each of the two systems; Cohen concordance was used as a measure of interobserver agreement. Majority of initial diagnoses were compressed in Marsh III subtypes and recategorization showed significant discordance of Marsh (iii) a to (iii) c, which represents little reproducibility. By contrast, Corazza-Villanacci produced majority of Grade B1 tasks with maximal consensus among pathologists, which was highly reproducible and did not compromise clinically valuable stratification. The results argue in favor of the straightforward implementation of the streamlined Corazza-Villanacci system in Indian high throughput settings to increase the consistency of the diagnoses and standardize patient care.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6DBEC0> <Element 'ForeName' at 0x000002AECA6DBF10>",
+    "Journal": "Bioinformation",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "celiac disease diagnosis"
+    ]
+  },
+  {
+    "PMID": "41985293",
+    "Title": "Olopatadine plus mometasone for seasonal allergic rhinitis treatment: A pooled analysis of clinical trials.",
+    "Abstract": "OBJECTIVE: This study was conducted to analyze the efficacy and safety of a fixed-dose combination of olopatadine HCl (antihistamine) and mometasone furoate (corticosteroid) (Olo/Mom, GSP301) for the treatment of Seasonal Allergic Rhinitis (SAR).METHODS: Efficacy data from one phase II (NCT02318303 [GSP301-201]) and two pivotal phase III double-blind, randomized, active, placebo-controlled (NCT02631551 [GSP301-301] and NCT02870205 [GSP301-304]) clinical trials were collated and analyzed. These studies investigated Olo/Mom (administered twice daily/BID) compared with placebo and its monotherapy constituents for the treatment of SAR in patients aged ≥12-years. In addition, safety data were analyzed from the aforementioned studies and a proof-of-concept study (NCT03444506 [GSP301-POC]). Primary and secondary endpoints were compared between Olo/Mom, its active mometasone and olopatadine constituents, and placebo.RESULTS: For the efficacy analyses (n = 2971), Olo/Mom significantly reduced rTNSS scores compared with placebo (Least Square Mean Difference [LSMD = -0.94]; 95% CI: -1.17, -0.70; p < 0.0001), olopatadine (LSMD = -0.37; 95% CI: -0.60, -0.14; p = 0.0019), and mometasone (LSMD = -0.42; 95% CI: -0.65, -0.18; p = 0.0005). Olo/Mom also significantly improved the RQLQ and iTNSS scores compared with placebo and its monotherapy constituents (p < 0.05, all). The onset of action of Olo/Mom was observed at 15-minutes and was sustained at subsequent timepoints. The incidence of treatment-emergent adverse events in the Olo/Mom, placebo, olopatadine, and mometasone groups was 13.9%, 9.5%, 13.2%, and 7.9%, respectively.CONCLUSION: This pooled analysis demonstrated the superiority of Olo/Mom compared to its monotherapy constituents or placebo in reducing SAR symptoms over 14-days. Moreover, this study showed that Olo/Mom has a rapid onset of action and significantly improves RQLQ scores compared to placebo. Administration of Olo/Mom BID is an effective and well-tolerated option for the treatment of SAR in patients aged 12-years or older.LEVEL OF EVIDENCE: I (Level I - randomized controlled trials).",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6F5FD0> <Element 'ForeName' at 0x000002AECA6F4FE0>",
+    "Journal": "Brazilian journal of otorhinolaryngology",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "allergic rhinitis treatment"
+    ]
+  },
+  {
+    "PMID": "41977353",
+    "Title": "A Comprehensive Review of Natural Products Against Allergic Rhinitis and Asthma: From Sensitization to Chronic Remodeling.",
+    "Abstract": "Allergic rhinitis (AR) and allergic asthma are chronic airway inflammatory diseases characterized by three phases: sensitization, acute exacerbation, and chronic remodeling. While conventional antiallergic drugs provide symptomatic relief, they often face limitations including drug resistance, side effects, and inability to reverse chronic airway remodeling. Natural products have emerged as promising therapeutic alternatives due to their multi-target effects and safety profiles. This review systematically summarizes natural small molecules targeting distinct pathological mechanisms across the three phases of AR and asthma, introducing a chronopharmacological perspective for stage-specific therapeutic strategies. During sensitization, flavonoids (quercetin, luteolin, apigenin, baicalin) and polyphenols (curcumin, resveratrol) target the epithelial-dendritic cell axis by suppressing alarmin release and blocking dendritic cell maturation. In acute exacerbation, flavonoids (hispidulin, quercetin) and isoquinoline alkaloids (coptisine) exhibit rapid intervention through mast cell stabilization and neurogenic inflammation suppression. In chronic remodeling, stilbenes (resveratrol) and flavones (baicalin, baicalein) reverse established structural changes through TGF-β1/Smad, PTEN/PI3K/AKT, and PDGF-BB/PDGFR-β pathways. Mapping natural compounds to specific disease stages provides a molecular basis for precision medicine approaches.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA67DE40> <Element 'ForeName' at 0x000002AECA67DDF0>",
+    "Journal": "International journal of molecular sciences",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "allergic rhinitis treatment"
+    ]
+  },
+  {
+    "PMID": "41975143",
+    "Title": "Gestational Diabetes Mellitus Increases the Risk of Atopic Dermatitis in Children: A National Retrospective Study with Analysis by Treatment Modality.",
+    "Abstract": "INTRODUCTION: Atopic dermatitis (AD) is a common childhood inflammatory disease influenced by genetic and environmental factors. Maternal metabolic conditions, including gestational diabetes mellitus (GDM), may affect offspring risk, but large population-based studies are limited. We aimed to examine the association between maternal GDM and offspring AD, and whether risk varies by maternal diabetes treatment type.METHODS: We conducted a retrospective cohort study of 326,611 mother-child dyads from Clalit Health Services, Israel, between 2010 and 2023. GDM was classified as diet-controlled (A1) or pharmacologically treated (A2). Offspring AD was identified using ICD-10 codes. Multivariable logistic regression estimated adjusted odds ratios (aORs), controlling for maternal age, allergic history, smoking, gestational age, infant sex, and follow-up duration.RESULTS: Of 16,008 (4.9%) mothers with GDM, offspring AD prevalence was higher than in non-GDM offspring (28% vs. 26%, p < 0.001). Maternal GDM was independently associated with increased offspring AD risk (aOR 1.07, 95% CI 1.03-1.11, p < 0.001). Additional independent predictors included maternal allergic rhinitis, asthma, smoking, male sex, and shorter gestational age.CONCLUSION: Maternal GDM is associated with an increased risk of AD in offspring, independent of maternal allergic and perinatal factors, though causality cannot be inferred because of the retrospective study design. These findings may suggest a role of maternal metabolic health in early-life immune and skin barrier development.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6A4270> <Element 'ForeName' at 0x000002AECA6A42C0>",
+    "Journal": "Dermatology and therapy",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "allergic rhinitis treatment"
+    ]
+  },
+  {
+    "PMID": "41975077",
+    "Title": "Age-stratified evaluation of sublingual immunotherapy outcomes in children with allergic rhinitis.",
+    "Abstract": "BACKGROUND: Sublingual immunotherapy (SLIT) consistently ameliorates pediatric allergic rhinitis (AR); the developmental stage-dependent efficacy remains equivocal. This study interrogated whether symptomatic improvement after SLIT differs among preschool, prepubertal, and pubertal cohorts.METHODS: We enrolled children with AR (aged 4-14 years) receiving SLIT and stratified them into three age groups: preschool (4-6 years), prepubertal (7-9 years), and pubertal (10-14 years). Nasal symptoms and total nasal symptom scores (TNSS) were evaluated at baseline and at different time points during treatment.RESULTS: A total of 134 patients were included (71 preschool, 41 prepubertal, 22 pubertal). All age groups showed significant improvement in nasal symptoms post-SLIT (P < 0.05), but a pronounced \"younger-age advantage\" was observed. Preschool (4-6 years) children experienced a 14.4% greater improvement in TNSS at 12 months compared to pubertal children (P < 0.05). The preschool and prepubertal groups achieved rapid symptom relief within 12 months, with subsequent stabilization, whereas the pubertal group required 24 months to attain comparable efficacy and exhibited poorer control of nasal itching.CONCLUSIONS: SLIT efficacy in pediatric AR is age-dependent, with younger patients deriving greater benefits and pubertal patients requiring extended treatment duration (≥3 years). These findings support age-stratified therapeutic strategies and provide critical evidence for personalized SLIT regimens.IMPACT: This study reveals that SLIT efficacy for pediatric allergic rhinitis is age-dependent, with younger children (preschool and prepubertal) experiencing faster and more significant symptom improvement compared to pubertal children. It highlights the need for age-stratified treatment strategies, suggesting that SLIT should be prioritized for preschool children to prevent disease progression and that pubertal patients may require extended treatment duration (≥3 years) and adjunctive therapies for optimal outcomes. These findings fill a critical knowledge gap regarding age-specific responses to SLIT and provide evidence-based support for personalized treatment regimens in pediatric allergic rhinitis management.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA6E7C90> <Element 'ForeName' at 0x000002AECA6E7CE0>",
+    "Journal": "Pediatric research",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "allergic rhinitis treatment"
+    ]
+  },
+  {
+    "PMID": "41973868",
+    "Title": "The Nasal Microbiome in Inflammation and Disease: Bridging Mechanisms to Therapeutics.",
+    "Abstract": "The nasal microbiome, an integral component of the upper respiratory tract's microecological system, plays a pivotal role in inflammatory diseases such as allergic rhinitis and chronic sinusitis, which affect a substantial population and markedly reduce quality of life. A healthy nasal flora and its metabolites are crucial for maintaining immune homeostasis and mucosal barrier integrity. This review comprehensively discusses the pathological mechanisms, immune interactions, and clinical intervention strategies involving the nasal microbiota in nasal inflammation. It has been shown that dysbiosis of the nasal flora disrupts immune function and compromises the epithelial barrier, thereby initiating and exacerbating a vicious cycle of inflammation. Furthermore, the formation of bacterial biofilms and the emergence of drug resistance contribute to persistent and recurrent symptoms. Regarding treatment, while antibiotics may offer short-term efficacy, they risk aggravating the microbial imbalance. In contrast, therapies including probiotics, novel immunomodulators, and traditional Chinese medicine demonstrate significant therapeutic potential by restoring microbial balance and modulating immune responses. This review synthesizes current research to provide new perspectives for understanding host-microbiome interactions and to guide future clinical treatments and drug development.",
+    "FirstAuthor": "<Element 'LastName' at 0x000002AECA706BB0> <Element 'ForeName' at 0x000002AECA706C00>",
+    "Journal": "Annals of the New York Academy of Sciences",
+    "Year": "2026",
+    "DOI": "",
+    "matched_terms": [
+      "allergic rhinitis treatment"
+    ]
+  }
+]
