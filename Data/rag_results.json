@@ -1,0 +1,218 @@
+[
+  {
+    "query": "Çocuklarda akut otitis media tedavisi nasıl yapılır?",
+    "retrieved_articles": [
+      {
+        "rank": 1,
+        "pmid": "41964158",
+        "title": "Embedded AI-Assisted Otoscopic Image Screening for Pediatric Otitis Media.",
+        "score": 0.03252247488101534
+      },
+      {
+        "rank": 2,
+        "pmid": "41967279",
+        "title": "Long-term otologic and auditory sequelae in children with recurrent acute otitis media.",
+        "score": 0.03252247488101534
+      },
+      {
+        "rank": 3,
+        "pmid": "41975077",
+        "title": "Age-stratified evaluation of sublingual immunotherapy outcomes in children with allergic rhinitis.",
+        "score": 0.03057889822595705
+      },
+      {
+        "rank": 4,
+        "pmid": "41914730",
+        "title": "Lipidated Protein D vaccination elicits humoral and cellular responses and protects mice against challenge with non-typeable Haemophilus influenzae.",
+        "score": 0.029709507042253523
+      },
+      {
+        "rank": 5,
+        "pmid": "41980359",
+        "title": "Biomaterials for bacterial recruitment function: A review.",
+        "score": 0.028693528693528692
+      }
+    ],
+    "answer": "Çocuklarda akut otitis media tedavisi genellikle antibiyotiklerle yapılır, ancak [PMID: 41914730] göre lipidated Protein D aşısı, humoral ve hücresel yanıtları uyararak fareleri non-tipik Haemophilus influenzae enfeksiyonuna karşı korur. Ayrıca, [PMID: 41964158] göre, otoskopik görüntü analizi için geliştirilen yapay zeka sistemi, pediatrik otitis media taraması ve triajı için umut verici bir yaklaşım olabilir. Ancak, [PMID: 41967279] ve [PMID: 41980359] makalelerinde çocuklarda akut otitis media tedavisi hakkında yeterli bilgi bulunmamaktadır. Dolayısıyla, çocuklarda akut otitis media tedavisi hakkında daha fazla bilgi için [PMID: 41914730] ve [PMID: 41964158] makalelerine başvurmak necessário olabilir."
+  },
+  {
+    "query": "Iron supplementation dosing for anemia during pregnancy",
+    "retrieved_articles": [
+      {
+        "rank": 1,
+        "pmid": "41983022",
+        "title": "Administration of Intravenous Ferric Carboxymaltose in a Patient With Iron-Deficiency Anemia and Allergy to 2 Oral Iron Preparations.",
+        "score": 0.03252247488101534
+      },
+      {
+        "rank": 2,
+        "pmid": "41974620",
+        "title": "Anemia of Chronic Disease Revisited: Hepcidin Dysregulation, Erythropoietic Failure, and Emerging Roles of SGLT2 Inhibition.",
+        "score": 0.032266458495966696
+      },
+      {
+        "rank": 3,
+        "pmid": "41984398",
+        "title": "Heme Iron Polypeptide Resolves Iron-deficiency Anemia in Rats and Mice.",
+        "score": 0.03200204813108039
+      },
+      {
+        "rank": 4,
+        "pmid": "41988815",
+        "title": "Gestational weight gain ranges in normal and morbid outcomes of pregnancy in a South Indian cohort.",
+        "score": 0.030117753623188408
+      },
+      {
+        "rank": 5,
+        "pmid": "41989035",
+        "title": "Postpartum Care for Patients With Diabetes: A Comprehensive and Whole-Life Approach.",
+        "score": 0.03007688828584351
+      }
+    ],
+    "answer": "I apologize, but the retrieved articles do not contain sufficient information to answer your query about iron supplementation dosing for anemia during pregnancy. The provided articles discuss various topics such as iron-deficiency anemia treatment, anemia of chronic disease, heme iron polypeptide, gestational weight gain, and postpartum care for patients with diabetes, but they do not provide specific information on iron supplementation dosing for anemia during pregnancy. [No relevant PMID can be cited]"
+  },
+  {
+    "query": "Çölyak hastalığı tanı kriterleri nelerdir?",
+    "retrieved_articles": [
+      {
+        "rank": 1,
+        "pmid": "41960545",
+        "title": "A retrospective analysis of interobserver variability in 356 cases over a period 10 years: Celiac disease.",
+        "score": 0.031544957774465976
+      },
+      {
+        "rank": 2,
+        "pmid": "41975174",
+        "title": "Celiac Disease: A Comprehensive Review of Epidemiology, Pathogenesis, and Therapeutic Strategies.",
+        "score": 0.030834914611005692
+      },
+      {
+        "rank": 3,
+        "pmid": "41975077",
+        "title": "Age-stratified evaluation of sublingual immunotherapy outcomes in children with allergic rhinitis.",
+        "score": 0.030621785881252923
+      },
+      {
+        "rank": 4,
+        "pmid": "41983487",
+        "title": "Bioelectrical Impedance Analysis to Identify the Affected Body Component in Girls With Celiac Disease.",
+        "score": 0.03036576949620428
+      },
+      {
+        "rank": 5,
+        "pmid": "41986138",
+        "title": "AI triage of duodenal biopsies improves workflow.",
+        "score": 0.029910714285714284
+      }
+    ],
+    "answer": "Çölyak hastalığı tanısında kullanılan kriterler arasında pozitif serolojik testler, karakteristik histolojik bulgular ve gluten-free diyetine yanıt yer almaktadır [PMID: 41975174]. Pozitif serolojik testler, IgA doku transglutaminaz ve IgG deaminated gliadin peptidini içermektedir. Histolojik bulgular, duodenal biyopsilerde görülen iltihabi hasara dayanmaktadır. Ayrıca, semptomların gluten-free diyetine yanıt vermesi de tanı kriterlerinden biridir [PMID: 41975174]."
+  },
+  {
+    "query": "Antibiotic resistance patterns in community acquired pneumonia",
+    "retrieved_articles": [
+      {
+        "rank": 1,
+        "pmid": "41987840",
+        "title": "A New Preview of Antibiotic-resistant Spectrum in Community-acquired Pneumonia: A Cross-Sectional Study from Iraq.",
+        "score": 0.03278688524590164
+      },
+      {
+        "rank": 2,
+        "pmid": "41985983",
+        "title": "Personalised management of community-acquired pneumonia and the role of Clinical Decision Support Software.",
+        "score": 0.03225806451612903
+      },
+      {
+        "rank": 3,
+        "pmid": "41983635",
+        "title": "Association Between the Red Cell Distribution Width-to-Albumin Ratio and Pediatric Community-Acquired Pneumonia.",
+        "score": 0.03149801587301587
+      },
+      {
+        "rank": 4,
+        "pmid": "41985406",
+        "title": "Predictors of secondary cardiovascular events in older adults with community-acquired pneumonia: a prospective observational study.",
+        "score": 0.031009615384615385
+      },
+      {
+        "rank": 5,
+        "pmid": "41922648",
+        "title": "Health Utilities Associated with Pneumococcal Diseases in Children and Adults: A Targeted Literature Review and Meta-analysis.",
+        "score": 0.030309988518943745
+      }
+    ],
+    "answer": "The retrieved articles provide partial information: [PMID: 41987840] states that S. pneumoniae and S. sanguinis showed 100% resistance to azithromycin, clindamycin, and ciprofloxacin, while S. aureus was 60% and 20% resistant to vancomycin and linezolid, respectively. Additionally, Acinetobacter baumannii exhibited near-total resistance. However, the articles do not provide a comprehensive overview of antibiotic resistance patterns in community-acquired pneumonia. [PMID: 41985983] discusses the management of community-acquired pneumonia and the role of Clinical Decision Support Software but does not provide specific information on antibiotic resistance patterns. [PMID: 41983635], [PMID: 41985406], and [PMID: 41922648] do not address antibiotic resistance patterns in community-acquired pneumonia. Therefore, the information available is limited to the findings of [PMID: 41987840]."
+  },
+  {
+    "query": "COVID-19 aşılarının etkinliği ve güvenliği hakkında güncel bilgiler nelerdir?",
+    "retrieved_articles": [
+      {
+        "rank": 1,
+        "pmid": "41985406",
+        "title": "Predictors of secondary cardiovascular events in older adults with community-acquired pneumonia: a prospective observational study.",
+        "score": 0.02813852813852814
+      },
+      {
+        "rank": 2,
+        "pmid": "41987106",
+        "title": "Serum mass spectral fingerprints with machine learning for early discrimination of infectious pneumonia in the emergency department.",
+        "score": 0.027425373134328357
+      },
+      {
+        "rank": 3,
+        "pmid": "41977353",
+        "title": "A Comprehensive Review of Natural Products Against Allergic Rhinitis and Asthma: From Sensitization to Chronic Remodeling.",
+        "score": 0.027242401779095628
+      },
+      {
+        "rank": 4,
+        "pmid": "41988872",
+        "title": "High glucose exposure induces differential pathophysiologic changes in feto-maternal interface cells.",
+        "score": 0.027046783625730993
+      },
+      {
+        "rank": 5,
+        "pmid": "41986138",
+        "title": "AI triage of duodenal biopsies improves workflow.",
+        "score": 0.026785714285714288
+      }
+    ],
+    "answer": "İlgili makalelerde COVID-19 aşılarının etkinliği ve güvenliği hakkında bilgi bulunmamaktadır. Sağladığı bilgiler sadece verilen makaleler ile sınırlıdır ve bu konuya ilişkin herhangi bir bilgi içermez. [PMID: 41985406], [PMID: 41987106], [PMID: 41977353], [PMID: 41988872] ve [PMID: 41986138] numaralı makaleler farklı konulara ilişkindir. Bu nedenle, COVID-19 aşılarının etkinliği ve güvenliği hakkında güncel bilgiler için başka kaynaklara başvurmanız önerilir."
+  },
+  {
+    "query": "Management of type 2 diabetes in elderly patients with comorbidities",
+    "retrieved_articles": [
+      {
+        "rank": 1,
+        "pmid": "41989560",
+        "title": "Hospitalization profiles and complications across ICD and CRT-D implantations in Germany: data from the VIDEO study.",
+        "score": 0.03225806451612903
+      },
+      {
+        "rank": 2,
+        "pmid": "41989090",
+        "title": "Decoding the Diabetic Transition: A Lipidomic Approach for Biomarker Discovery in an Indian Cohort.",
+        "score": 0.03131881575727918
+      },
+      {
+        "rank": 3,
+        "pmid": "41988816",
+        "title": "Anacardic Acid Inhibits Pde2a to Enhance Colonic Epithelial Barrier Integrity in the Improvement of Diabetic Cardiomyopathy.",
+        "score": 0.031024531024531024
+      },
+      {
+        "rank": 4,
+        "pmid": "41988608",
+        "title": "Improvement of Chronic Lateral Knee Pain Through Osteopathic Manipulative Treatment Targeting Anterior Fibular Head Somatic Dysfunction: A Case Report.",
+        "score": 0.030886196246139225
+      },
+      {
+        "rank": 5,
+        "pmid": "41989035",
+        "title": "Postpartum Care for Patients With Diabetes: A Comprehensive and Whole-Life Approach.",
+        "score": 0.03057889822595705
+      }
+    ],
+    "answer": "I apologize, but the retrieved articles do not contain sufficient information to answer your query about the management of type 2 diabetes in elderly patients with comorbidities. The provided articles discuss various topics such as implantable cardioverter-defibrillator (ICD) implantations, lipidomic analysis for biomarker discovery in type 2 diabetes, anacardic acid's effect on diabetic cardiomyopathy, osteopathic manipulative treatment for chronic knee pain, and postpartum care for patients with diabetes, but do not provide specific guidance on managing type 2 diabetes in elderly patients with comorbidities. [No relevant PMID can be cited]"
+  }
+]
