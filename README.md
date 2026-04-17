@@ -144,7 +144,7 @@ Gemini is more capable of answering the queries however Groq is more robust, wit
 
 `app.py` provides query input, retrieval table, expandable details, LLM answer, adjustable result count.
 
-**Given more time** I would have intensely focused on hyperparameter tuning, such as testing a broader range of values for k1 and b in BM25 and k for RRF, as well as evaluating diverse retrieval models and running multiple optimization iterations to achieve peak system performance. Since implementing some of these NLP concepts was a new experience, I dedicated a portion of my time to concretizing the logic required to develop the MVP, but I am extremely eager to keep experimenting to build an even more robust system.
+Given more time I would have intensely focused on hyperparameter tuning, such as testing a broader range of values for k1 and b in BM25 and k for RRF, as well as evaluating diverse retrieval models and running multiple optimization iterations to achieve peak system performance. Since implementing some of these NLP concepts was a new experience, I dedicated a portion of my time to concretizing the logic required to develop the MVP, but I am extremely eager to keep experimenting to build an even more robust system.
 ---
 
 ## 3. BM25 Analysis
