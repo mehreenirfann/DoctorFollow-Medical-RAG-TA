@@ -124,6 +124,9 @@ The **multilingual-e5-small model** was kept as the model of choice for semantic
 Drawbacks compare with bge-m3:
 1. Low retrieval accuracy as compared to bge-m3
 2. 512 token context window vs bge-m3's 8192 token context window
+
+**Results:** Mean P@5=**0.76**, MRR=**1.00**, MAP=**0.99**
+
 ### RAG Generation
 
 **System design:** Query → Retrieve 5 articles → Format context → LLM generates answer → Return with PMID citations
@@ -171,10 +174,7 @@ b controls document length normalization i.e. adjusts the score based on the rel
 - **b=0.75** — Partial normalization; balances short & long articles; standard choice for fair ranking
 - **b=1.0** — Full normalization; completely neutralizes document length; short papers ≈ long papers
 
-**BM25 Results:**
-- Mean Precision@5: 0.40 
-- Mean MRR: 0.45 
-- Mean MAP: 0.35 
+**Results:** Mean P@5=**0.68**, MRR=**0.80**, MAP=**0.78**
 
 The given results indicate that BM25 excels at keyword matching but misses semantic similarity.
 
@@ -194,7 +194,7 @@ Reinforcing the paper, k=60 is ideal for medical retrieval.
 **Why use rank position instead of raw scores?**  
 BM25 and cosine similarity have incompatible scales: BM25 ranges 0-30 while cosine ranges 0-1. Combining raw scores makes BM25 dominate, making semantic retrieval irrelevant (reinforced by the individual results as well). Using rank positions makes both methods serve equally.
 
-**Results:** Mean P@5=**0.56**, MRR=**0.62**, MAP=**0.51** (best method!)
+**Results:** Mean P@5=**0.84**, MRR=**1.00**, MAP=**0.96** (best method!)
 
 ---
 
