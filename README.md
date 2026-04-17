@@ -145,7 +145,38 @@ Gemini is more capable of answering the queries however Groq is more robust, wit
 `app.py` provides query input, retrieval table, expandable details, LLM answer, adjustable result count.
 
 **Given more time** I would have intensely focused on hyperparameter tuning, such as testing a broader range of values for k1 and b in BM25 and k for RRF, as well as evaluating diverse retrieval models and running multiple optimization iterations to achieve peak system performance. Since implementing some of these NLP concepts was a new experience, I dedicated a portion of my time to concretizing the logic required to develop the MVP, but I am extremely eager to keep experimenting to build an even more robust system.
+---
 
+## 3. BM25 Analysis
+
+Learning Source: (https://www.geeksforgeeks.org/nlpwhat-is-bm25-best-matching-25-algorithm/)
+
+BM25 formula: `score(D,Q) = Σ IDF(qi) * (f(qi,D) * (k1 + 1)) / (f(qi,D) + k1 * (1 - b + b * |D|/avgdl))`
+
+**Functions of Parameters k1 and b:**  
+k1 controls term frequency scaling of the searched term i.e. adjusts the weightage given to a document for multiple occurances of the searched term.  
+b controls document length normalization i.e. adjusts the score based on the relative length of the document.
+
+### What Happens When We Vary Them?
+
+**Tested Query:** "diabetes management guidelines"
+
+**k1 Parameter (Term Frequency Scaling):**
+- **k1=0.5** — Term repetition saturates quickly; "diabetes diabetes diabetes" ≈ "diabetes"; reduces impact of repetition
+- **k1=1.5** — Balanced approach; standard for most use cases; good for medical literature retrieval
+- **k1=3.0** — Keeps rewarding repetition; documents heavily mentioning diabetes score much higher
+
+**b Parameter (Length Normalization):**
+- **b=0.0** — No normalization; long documents always win; bias toward comprehensive reviews
+- **b=0.75** — Partial normalization; balances short & long articles; standard choice for fair ranking
+- **b=1.0** — Full normalization; completely neutralizes document length; short papers ≈ long papers
+
+**BM25 Results:**
+- Mean Precision@5: 0.40 
+- Mean MRR: 0.45 
+- Mean MAP: 0.35 
+
+The given results indicate that BM25 excels at keyword matching but misses semantic similarity.
 
 ---
 
